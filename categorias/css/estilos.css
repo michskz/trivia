@@ -1,0 +1,257 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root {
+    view-transition-name: root;
+}
+html {
+    display: block;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+head {
+    display: none;
+}
+body {
+    background-image: url(/categorias/media/Prototipo\ de\ ordenador\ web\ tecnológica\ moderna\ negro\ y\ amarillo.png);
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+.presentacion {
+    border-radius: 15px;
+    border: 1px solid black;
+    box-shadow: 0 8px 10px rgba(0, 0, 0, 0.6);
+    background-color: white;
+    margin: 30px auto;
+    height: 450px;
+    width: 50%;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.marca {
+    border-radius: 15px 15px 0 0;
+    background-color: black;
+    color: white;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+user agent stylesheet
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.marca {
+    border-radius: 15px 15px 0 0;
+    background-color: black;
+    color: white;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    display: block;
+}
+.container {
+    background-image: url(/categorias/media/4k-hd-wallpaper-for-computer-desktop-with-dark-aesthetic-and-dope-trippy-wallpapers-for-cute-girls-photo.jpg);
+    padding: 50px 10px 0;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    display: block;
+}
+.titulo {
+    color: #bd026f;
+    font-size: 35px;
+    margin: 10px 0;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.puntos {
+    font-size: 16px;
+    margin: 10px 0;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.botones {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.boton {
+    border-radius: 10px;
+    border: 1px solid black;
+    font-weight: 800;
+    display: block;
+    padding: 5px 10px;
+    margin: 10px auto;
+    width: 40%;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.boton {
+    border-radius: 10px;
+    border: 1px solid black;
+    font-weight: 800;
+    display: block;
+    padding: 5px 10px;
+    margin: 10px auto;
+    width: 40%;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.boton {
+    border-radius: 10px;
+    border: 1px solid black;
+    font-weight: 800;
+    display: block;
+    padding: 5px 10px;
+    margin: 10px auto;
+    width: 40%;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.botones {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}

@@ -1,0 +1,89 @@
+/* Rueda de colores https://color.adobe.com/es/create/color-wheel */
+
+body { background-image: url(/MUSICA/media/6e5d0352f2c385fb1f88a56f0953f5dc.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #5bdbdb;
+}
+
+.container {
+    background-image: url(/MUSICA/media/557ac2732d43457f17ba47010e55a97b.jpg);
+    margin: 100px auto 0 auto;
+    width: 500px;
+    box-shadow: 5px 5px 5px #C8DDE0;
+    height: 600px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.pregunta_nombre, .resultado_titulo {
+    text-align: center;
+    font-size: 1.5rem;  /* Comentar sobre medidas relativas */
+}
+
+.pregunta_contenido {
+    padding: 15px;
+}
+
+.pregunta_enunciado {
+    text-align: justify;
+    height: 150px;
+}
+
+.pregunta_alternativas {
+    height: 200px;
+    line-height: 1.3;
+}
+
+.pregunta_alternativas button {
+    display: block;
+    margin: 5px auto;
+    font-size: 1rem;
+    width: 300px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 0;
+    background-color: rgb(161, 11, 141);
+    border: none;
+}
+
+.pregunta_alternativas button:hover {
+    background-color: rgb(14, 212, 247);
+}
+
+.avance {
+    vertical-align: bottom;
+}
+
+.card {
+    height: 450px;
+}
+
+
+#estilo-excelente {
+    color:rgb(68, 18, 161);
+    font-weight: 600;
+}
+
+#estilo-bueno {
+    color:rgb(14, 199, 183);
+    font-weight: 600;
+}
+
+#estilo-aceptable {
+    color:rgb(18, 80, 161);
+    font-weight: 600;
+}
+
+#estilo-regular {
+    color:rgb(19, 214, 181);
+    font-weight: 600;
+}
+
+#estilo-malo {
+    color:rgb(137, 18, 161);
+    font-weight: 600;
+}
+
+.resultado_obtenido {
+    padding-top: 50px;
+}
