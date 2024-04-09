@@ -19,7 +19,11 @@ head {
    display: none;
 }
 body {
-   background-image: url(/PRESENTACION/media/22acd4edc7efa7d823c70e51d7ef36cb.jpg);
+   background-image: url(assets/media/22acd4edc7efa7d823c70e51d7ef36cb.jpg);
+   background-position: 90% ; 
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
    font-family: 'Indie Flower', cursive;
    font-size: 18px;
    text-align: center;

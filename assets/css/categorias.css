@@ -18,7 +18,11 @@ head {
     display: none;
 }
 body {
-    background-image: url(/categorias/media/Prototipo\ de\ ordenador\ web\ tecnológica\ moderna\ negro\ y\ amarillo.png);
+    background-image: url(assets/media/Prototipo\ de\ ordenador\ web\ tecnológica\ moderna\ negro\ y\ amarillo.png );
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     font-family: 'Indie Flower', cursive;
     font-size: 18px;
     text-align: center;
@@ -89,7 +93,8 @@ div {
     display: block;
 }
 .container {
-    background-image: url(/categorias/media/4k-hd-wallpaper-for-computer-desktop-with-dark-aesthetic-and-dope-trippy-wallpapers-for-cute-girls-photo.jpg);
+    background-image: url(assets/media/4k-hd-wallpaper-for-computer-desktop-with-dark-aesthetic-and-dope-trippy-wallpapers-for-cute-girls-photo.jpg);
+    
     padding: 50px 10px 0;
 }
 * {

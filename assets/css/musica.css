@@ -1,12 +1,20 @@
 /* Rueda de colores https://color.adobe.com/es/create/color-wheel */
 
-body { background-image: url(/MUSICA/media/6e5d0352f2c385fb1f88a56f0953f5dc.jpg);
+body { background-image: url(assets/media/6e5d0352f2c385fb1f88a56f0953f5dc.jpg);
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: #5bdbdb;
 }
 
 .container {
-    background-image: url(/MUSICA/media/557ac2732d43457f17ba47010e55a97b.jpg);
+    background-image: url(assets/media/557ac2732d43457f17ba47010e55a97b.jpg);
+    background-position: 90% ; /*esto determina que tan a la izquierda comenzará*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     margin: 100px auto 0 auto;
     width: 500px;
     box-shadow: 5px 5px 5px #C8DDE0;

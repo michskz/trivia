@@ -2,11 +2,12 @@
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-image: url(/PELICULAS/media/blue_sky_art_mystery_clouds_dark_stars_landscape-1050774.jpg!d);
+    background-image: url(assets/media/1366_2000.jpg);
 }
 
 .container {
-    background-image: url(/PELICULAS/media/along-with-the-gods.jpeg);
+    background-image: url(assets/media/desktop-wallpaper-precioso-ideas-pinterest-fondos-pantalla-y-fondos-de-pantalla-con-aesthetic-computer-pinterest.jpg);
+    
     margin: 100px auto 0 auto;
     width: 500px;
     box-shadow: 5px 5px 5px #C8DDE0;
@@ -17,13 +18,12 @@ body {
 
 .pregunta_nombre, .resultado_titulo {
     text-align: center;
-    color: rgb(214, 113, 160);
+    color: white (214, 113, 160);
     font-size: 1.5rem;  /* Comentar sobre medidas relativas */
 }
 
 .pregunta_contenido {
     padding: 15px;
-    color: white;
 }
 
 .pregunta_enunciado {
@@ -34,6 +34,7 @@ body {
 .pregunta_alternativas {
     height: 200px;
     line-height: 1.3;
+    /* border: 1px solid red; */
 }
 
 .pregunta_alternativas button {
@@ -60,27 +61,32 @@ body {
     height: 450px;
 }
 
-#pelicula-excelente {
+
+#dorama-excelente {
     color:rgb(35, 161, 18);
     font-weight: 600;
 }
 
-#pelicula-bueno {
+#dorama-bueno {
     color:rgb(18, 161, 149);
     font-weight: 600;
 }
 
-#pelicula-aceptable {
+#dorama-aceptable {
     color:rgb(18, 80, 161);
     font-weight: 600;
 }
 
+#dorama-regular {
+    color:rgb(214, 162, 19);
+    font-weight: 600;
+}
 
-#pelicula-malo {
+#dorama-malo {
     color:rgb(161, 39, 18);
     font-weight: 600;
 }
 
-.resultado_obtenido {
+.dorama_obtenido {
     padding-top: 50px;
 }
